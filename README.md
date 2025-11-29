@@ -10,6 +10,8 @@ Alaa Mahmoud Khatar
 Mona Ibrahim
 Shahinaz Ashraf (Team leader)
 Yara Sobhy
+
+
 Project Overview:
 
 This dataset simulates a real-world scenario for public health and environmental monitoring. It integrates data on: • Air quality indicators • Weather conditions • Mobility patterns • Healthcare utilization (specifically, respiratory-related hospital and emergency visits) The data covers five regions over two years (2020–2022) and examines how environmental factors and mobility impact respiratory health.
